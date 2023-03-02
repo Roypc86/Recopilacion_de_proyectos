@@ -22,3 +22,9 @@ El proyecto consiste en crear una red _overlay_ por encima de una red existente,
 Para este proyecto se decidió implementar una versión del juego Pong. Pong es un juego inspirado en el tennis de mesa, en el cual un jugador mueve su paleta de manera vertical para poder hacer contacto con una bola en movimiento. El objetivo del juego consiste evitar que la pelota toque la pared defendida por uno y realizar más puntos que el oponente, dicho esto la red neuronal debe ser capaz de defender la pelota en cualquiera de los dos lados.
 
 [Link del proyecto](https://github.com/mantofer02/CI-0148-2022-S2/tree/main/Proyecto/Version%200.3)
+
+## Laboratorios desarrollados en Machine Learning:
+
+El siguiente repositorio cuenta con los laboratorios desarrollados en el curso Machine Learning:
+
+[Link del repositorio](https://github.com/Roypc86/Laboratorios-Machine-Learning)
