@@ -1,3 +1,8 @@
+# Información:
+### Nombre: Roy Esteban Padilla Calderón.
+### Correo: roypc86@gmail.com
+### Carrera: Bachillerato en Computación con énfasis en Ciencias de la Computación
+
 # Recopilación de proyectos universitarios más importantes
 Repositorio de recopilación de proyectos más importantes desarrollados a lo largo de la carrera de Ciencias de la Computación.
 
