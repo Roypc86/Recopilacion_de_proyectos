@@ -28,3 +28,5 @@ Para este proyecto se decidió implementar una versión del juego Pong. Pong es 
 El siguiente repositorio cuenta con los laboratorios desarrollados en el curso Machine Learning:
 
 [Link del repositorio](https://github.com/Roypc86/Laboratorios-Machine-Learning)
+
+## Azure Functions
