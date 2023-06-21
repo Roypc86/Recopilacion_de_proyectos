@@ -35,3 +35,6 @@ El siguiente repositorio cuenta con los laboratorios desarrollados en el curso M
 [Link del repositorio](https://github.com/Roypc86/Laboratorios-Machine-Learning)
 
 ## Azure Functions
+
+Este repositorio contiene las Azure Functions implementadas con el fin de entender cómo funciona este servicio.
+[Link del repositorio](https://github.com/Roypc86/AzureFunctions.git)
