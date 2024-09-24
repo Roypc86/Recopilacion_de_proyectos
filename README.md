@@ -1,41 +1,25 @@
-# Información:
-### Nombre: Roy Esteban Padilla Calderón.
-### Correo: roypc86@gmail.com
-### Carrera: Bachillerato en Computación con énfasis en Ciencias de la Computación
+# Information:
+### Name: Roy Esteban Padilla Calderón.
+### Email: roypc86@gmail.com
+### Degree: Bachelor's in Computing with emphasis in Computer Science
 
-# Recopilación de proyectos universitarios más importantes
-Repositorio de recopilación de proyectos más importantes desarrollados a lo largo de la carrera de Ciencias de la Computación.
+# Compilation of Most Important University Projects
+Repository compiling the most important projects developed throughout the Computer Science degree program.
 
-## Word Embedding con Word2Vec:
+## Word Embedding with Word2Vec:
+This project involves using Word2Vec artificial intelligence technology to develop a neural network that, based on accounting standards, can solve pairings with concepts extracted from the training set.
+[Project Link](https://colab.research.google.com/drive/1_Zs0lOFndHZOX9gAINYQtLhY4H50auJK?usp=sharing)
+In another course, an extension to the project was made, adding brute force, heuristic, and meta-heuristic methods to test the reading of the probability matrix obtained by the neural network.
+[Project Link with Extension](https://github.com/UCR-ECCI-MM/tareas-programadas-mugiwaras/tree/main/Tarea_Programada_2/Entrega%202)
 
-Consiste en utilizar la tecnología de inteligencia artificial Word2Vec para desarrollar una red neuronal, la cual a partir de normas contables logre resolver pareos con conceptos extraídos del conjunto de entrenamiento.
+## Integrative Project for Operating Systems and Data Communication Networks:
+The project involves creating an overlay network on top of an existing network, where the main nodes are logically connected following a topology of neighboring nodes, allowing communication and message passing through protocols implemented by the team. In other words, it enables sending messages from one machine and ensures the receiving device can correctly receive it.
+[Project Link](https://git.ucr.ac.cr/anonymous/anonymous)
 
-[Link del proyecto](https://colab.research.google.com/drive/1_Zs0lOFndHZOX9gAINYQtLhY4H50auJK?usp=sharing)
+## Pong with Deep Q-Learning:
+For this project, a version of the Pong game was implemented. Pong is a game inspired by table tennis, in which players move their paddle vertically to make contact with a moving ball. The game's objective is to prevent the ball from touching the wall you're defending and to score more points than the opponent. The neural network must be able to defend the ball on either side.
+[Project Link](https://github.com/mantofer02/CI-0148-2022-S2/tree/main/Proyecto/Version%200.3)
 
-En otro curso se realizó una extensión al proyecto agregando métodos de fuerza bruta, heurística y meta-heurísticas para probar la lectura de la matriz de probabilidades obtenidas por la red neuronal.
-
-[Link del proyecto con la extensión](https://github.com/UCR-ECCI-MM/tareas-programadas-mugiwaras/tree/main/Tarea_Programada_2/Entrega%202)
-
-## Proyecto Integrador de Sistemas Operativos y Redes de Comunicación de Datos:
-
-El proyecto consiste en crear una red _overlay_ por encima de una red existente, donde los nodos principales  se conectan lógicamente entre sí siguiendo una topología de nodos vecinos, que permita la comunicación y el paso de mensajes a través de protocolos implementados por el equipo, es decir, permitir que desde una máquina se pueda enviar mensajes y que el dispositivo receptor pueda recibirlo correctamente.
-
-[Link del proyecto](https://git.ucr.ac.cr/anonymous/anonymous)
-
-## Pong con Deep Q-Learning:
-
-Para este proyecto se decidió implementar una versión del juego Pong. Pong es un juego inspirado en el tennis de mesa, en el cual un jugador mueve su paleta de manera vertical para poder hacer contacto con una bola en movimiento. El objetivo del juego consiste evitar que la pelota toque la pared defendida por uno y realizar más puntos que el oponente, dicho esto la red neuronal debe ser capaz de defender la pelota en cualquiera de los dos lados.
-
-[Link del proyecto](https://github.com/mantofer02/CI-0148-2022-S2/tree/main/Proyecto/Version%200.3)
-
-## Laboratorios desarrollados en Machine Learning:
-
-El siguiente repositorio cuenta con los laboratorios desarrollados en el curso Machine Learning:
-
-[Link del repositorio](https://github.com/Roypc86/Laboratorios-Machine-Learning)
-
-## Azure Functions
-
-Este repositorio contiene las Azure Functions implementadas con el fin de entender cómo funciona este servicio. 
-
-[Link del repositorio](https://github.com/Roypc86/AzureFunctions.git)
+## Laboratories Developed in Machine Learning:
+The following repository contains the laboratories developed in the Machine Learning course:
+[Repository Link](https://github.com/Roypc86/Laboratorios-Machine-Learning)
