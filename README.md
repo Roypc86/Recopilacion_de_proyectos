@@ -9,8 +9,6 @@ Repository compiling the most important projects developed throughout the Comput
 ## Word Embedding with Word2Vec:
 This project involves using Word2Vec artificial intelligence technology to develop a neural network that, based on accounting standards, can solve pairings with concepts extracted from the training set.
 [Project Link](https://colab.research.google.com/drive/1_Zs0lOFndHZOX9gAINYQtLhY4H50auJK?usp=sharing)
-In another course, an extension to the project was made, adding brute force, heuristic, and meta-heuristic methods to test the reading of the probability matrix obtained by the neural network.
-[Project Link with Extension](https://github.com/UCR-ECCI-MM/tareas-programadas-mugiwaras/tree/main/Tarea_Programada_2/Entrega%202)
 
 ## Integrative Project for Operating Systems and Data Communication Networks:
 The project involves creating an overlay network on top of an existing network, where the main nodes are logically connected following a topology of neighboring nodes, allowing communication and message passing through protocols implemented by the team. In other words, it enables sending messages from one machine and ensures the receiving device can correctly receive it.
